@@ -14,7 +14,7 @@ body:
     attributes:
       label: Your device
       description: "Examples: Raspberry Pi4, PC, PS Vita, PS Classic, etc."
-      placeholder: PC
+      placeholder: PS Vita
     validations:
       required: true
   - type: dropdown
